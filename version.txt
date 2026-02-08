@@ -1,2 +1,2 @@
 1.0.3
-https://github.com/franco23ika/DBSTools/raw/main/DBS_Tools.exe
+https://github.com/franco23ika/DBSTools/releases/download/v1.0.3/DBS_Tools.exe
